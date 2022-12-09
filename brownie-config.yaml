@@ -1,0 +1,29 @@
+dotenv: .env
+
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.8.0
+
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.8.0'
+
+networks: 
+  default: mumbai-alchemy
+
+provider:
+  websockets: ${WEBSOCKETS_KEY}
+  http: ${ALCHEMY_MUMBAI_NODE_PROVIDER}
+
+wallets:
+  from_key: 
+    seller: ${MAIN_DEV_KEY}
+    inspector: ${DEV_2_KEY}
+    lender: ${DEV_3_KEY}
+    buyer: ${DEV_4_KEY}
+
+addresses:
+  seller_address: ${MAIN_DEV_ADDRESS}
+  inspector_address: ${DEV_2_ADDRESS}
+  lender_address: ${DEV_3_ADDRESS}
+  buyer_address: ${DEV_4_ADDRESS}
