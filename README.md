@@ -1,6 +1,6 @@
-# WEB3 ESTATES V2
+## WEB3 ESTATES V2
 
-## Buy & Sell Real Estate using NFTs
+### Buy & Sell Real Estate using NFTs
 
 <b>_Website_</b>: https://web3-estates-v2.okikicodes.repl.co/
 
