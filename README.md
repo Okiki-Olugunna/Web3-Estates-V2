@@ -15,7 +15,7 @@
 
 <br> 
 
-<i> To see a full simulation of this process, have a look at the [01_deploy.py](https://github.com/Okiki-Olugunna/Web3-Estates-V2/blob/main/scripts/01_deploy.py) script showing the minitng and listing of the property, as well as the [02_simulate.py script](https://github.com/Okiki-Olugunna/Web3-Estates-V2/blob/main/scripts/02_simulate.py), showing </i>
+<i> To see a full simulation of this process, have a look at the [01_deploy.py](https://github.com/Okiki-Olugunna/Web3-Estates-V2/blob/main/scripts/01_deploy.py) script showing the minitng and listing of the property, as well as the [02_simulate.py script](https://github.com/Okiki-Olugunna/Web3-Estates-V2/blob/main/scripts/02_simulate.py), showing the inspection, approval & lending process. </i>
 
 <br>
 
